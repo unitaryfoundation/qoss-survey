@@ -3,9 +3,16 @@ Repository with aggregated and anonymized data from the **Quantum Open Source So
 
 The surveys were available at the following URLs:
 
-## 2024 Results
+## 2025 Results
 - Blog Post: TBD
 - Website: TBD
+
+The folder contains results of the survey for the 2024 survey (which includes main survey questions and diversity), with aggregated data in xlsx, csv format.
+
+
+## 2024 Results
+- Blog Post: https://unitary.foundation/posts/2024_surveyresults/
+- Website: https://unitaryfoundation.github.io/survey-2024/
 
 The folder [`2024`](./2024/) contains results of the survey for the 2024 survey (which includes main survey questions and diversity), with aggregated data in xlsx, csv format.
 
