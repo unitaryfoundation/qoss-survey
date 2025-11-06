@@ -2,12 +2,12 @@
 
 Repository with aggregated and anonymized data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey.
 
-The surveys were available at the following URLs:
+The survey results are available at the following URLs:
 
 ## 2025 Results
 
-- Blog Post: TBD
-- Website: TBD
+- Blog Post: https://unitary.foundation/posts/2025_survey_results/
+- Website: https://unitaryfoundation.github.io/survey-2025/
 
 The folder [`2025`](./2025/) contains results of the survey for the 2025 survey (which includes main survey questions and diversity), with aggregated data in xlsx, csv format.
 
