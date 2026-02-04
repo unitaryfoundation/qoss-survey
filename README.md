@@ -2,7 +2,7 @@
 
 Repository with aggregated and anonymized data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey.
 
-The surveys were available at the following URLs:
+The survey results are available at the following URLs:
 
 ## 2025 Results
 
