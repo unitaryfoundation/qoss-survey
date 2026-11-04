@@ -1,0 +1,1116 @@
+2026 Quantum Open Source Software Survey
+
+"Q1. By continuing, you accept the terms of the privacy policy and data protection above."
+Answer Choices,Response Percent,Responses
+Yes,99.31%,1865
+No,0.69%,13
+,Answered,1878
+,Skipped,0
+
+
+Q2. Which of the following statements describe your role? Please check all that apply.
+Answer Choices,Response Percent,Responses
+"A researcher who is within a quantum computing provider, research lab, academic institution or start-up focused on using a variety of techniques to build quantum technology (e.g. optimizers, algorithms, or hardware).",49.43%,699
+"A software developer who is within an organization, responsible for designing, developing, and testing software.",34.16%,483
+An educator who is working to develop the next generation of quantum professionals.,12.94%,183
+A hobbyist who is interested in quantum computing but has no work or academic responsibilities tied to it.,15.56%,220
+A student in the quantum field or otherwise.,25.88%,366
+"A business leader who is interested in safeguarding company vision, making new product discoveries and/or tackling high impact problems that are not easily solvable with classical computing.",12.16%,172
+A program manager who is responsible for identifying opportunities for quantum in their organization and creating teams to explore quantum.,6.58%,93
+Other (please specify),5.66%,80
+,Answered,1414
+,Skipped,464
+
+
+Q3. Which of the following statements best describe your background?
+Answer Choices,Response Percent,Responses
+I have a background in quantum research,48.15%,677
+I have a background in classical programming and software technologies,53.98%,759
+I have a background in non-quantum research (I’m a researcher but not in quantum),19.27%,271
+I have a background in quantum programming and software technologies,35.63%,501
+Other (please specify; eg. “design for large-scale and/or high-availability software”),7.97%,112
+,Answered,1406
+,Skipped,472
+
+
+Q4. Which of the following statements best describe your main reason for your involvement in quantum technologies?
+Answer Choices,Response Percent,Responses
+My goal is to use quantum technologies to experiment and advance quantum science and knowledge,29.61%,413
+My goal is to understand what quantum technologies are capable of and prepare for use of quantum technologies,22.87%,319
+My goal is to learn something new and interesting,9.89%,138
+My goal is to advance quantum technologies,27.81%,388
+My goal is to prepare the future workforce needed for the quantum industry,7.67%,107
+Other (please specify),2.15%,30
+,Answered,1395
+,Skipped,483
+
+
+Q5. Which of the following options represent the type of organization(s) you are affiliated with? Please check all that apply.
+Answer Choices,Response Percent,Responses
+No affiliation,12.45%,174
+Academic institution,41.63%,582
+Government,5.58%,78
+Startup,28.11%,393
+Enterprise organization,26.18%,366
+Non-Profit,4.94%,69
+Other (please specify),1.93%,27
+,Answered,1398
+,Skipped,480
+
+
+Q6. Approximately how many people are employed by the organization you are currently affiliated with?
+Answer Choices,Response Percent,Responses
+"Just me - I am a freelancer, sole proprietor, independent, etc.",15.79%,219
+2 to 19 employees,11.25%,156
+20 to 99 employees,6.99%,97
+100 to 999 employees,27.76%,385
+"1,000 or more employees",26.82%,372
+I don't know,11.39%,158
+,Answered,1387
+,Skipped,491
+
+
+Q7. Do you get paid for working with Quantum Technology?
+Answer Choices,Response Percent,Responses
+"Yes, as my primary job",46.56%,643
+"Yes, but as a side project",9.27%,128
+No,44.17%,610
+,Answered,1381
+,Skipped,497
+
+
+"Q8. If yes, on average, how long did you stay with previous employers before changing companies?"
+Answer Choices,Response Percent,Responses
+Less than 1 year,7.71%,88
+1 -2 years,12.88%,147
+2-3 years,13.06%,149
+3 -4 years,7.8%,89
+4 -5 years,6.84%,78
+More than 5 years,14.72%,168
+I never changed companies,36.99%,422
+,Answered,1141
+,Skipped,737
+
+
+"Q9. If you work in quantum technology, how do you work?"
+Answer Choices,Response Percent,Responses
+Fully remote,19.33%,260
+Hybrid,36.88%,496
+In person,18.22%,245
+I don't work in quantum tech,25.58%,344
+,Answered,1345
+,Skipped,533
+
+
+Q10. In what country do you currently live?
+Answer Choices,Response Percent,Responses
+Afghanistan,0.0%,0
+Albania,0.07%,1
+Algeria,0.51%,7
+Andorra,0.0%,0
+Angola,0.0%,0
+Antigua & Deps,0.0%,0
+Argentina,0.22%,3
+Armenia,0.07%,1
+Australia,0.73%,10
+Austria,0.22%,3
+Azerbaijan,0.15%,2
+Bahamas,0.0%,0
+Bahrain,0.0%,0
+Bangladesh,0.29%,4
+Barbados,0.07%,1
+Belarus,0.0%,0
+Belgium,0.29%,4
+Belize,0.0%,0
+Benin,0.0%,0
+Bhutan,0.0%,0
+Bolivia,0.0%,0
+Bosnia Herzegovina,0.0%,0
+Botswana,0.0%,0
+Brazil,1.54%,21
+Brunei,0.0%,0
+Bulgaria,0.07%,1
+Burkina,0.07%,1
+Burundi,0.0%,0
+Cambodia,0.0%,0
+Cameroon,0.22%,3
+Canada,7.68%,105
+Cape Verde,0.0%,0
+Central African Rep,0.0%,0
+Chad,0.0%,0
+Chile,0.07%,1
+China,0.44%,6
+Colombia,0.22%,3
+Comoros,0.0%,0
+Congo,0.0%,0
+Congo {Democratic Rep},0.0%,0
+Costa Rica,0.22%,3
+Croatia,0.07%,1
+Cuba,0.0%,0
+Cyprus,0.0%,0
+Czech Republic,0.66%,9
+Denmark,0.51%,7
+Djibouti,0.0%,0
+Dominica,0.0%,0
+Dominican Republic,0.0%,0
+East Timor,0.0%,0
+Ecuador,0.15%,2
+Egypt,0.66%,9
+El Salvador,0.0%,0
+Equatorial Guinea,0.0%,0
+Eritrea,0.0%,0
+Estonia,0.0%,0
+Ethiopia,0.44%,6
+Fiji,0.0%,0
+Finland,0.66%,9
+France,2.34%,32
+Gabon,0.0%,0
+Gambia,0.07%,1
+Georgia,0.0%,0
+Germany,4.97%,68
+Ghana,0.22%,3
+Greece,0.22%,3
+Grenada,0.0%,0
+Guatemala,0.07%,1
+Guinea,0.0%,0
+Guinea-Bissau,0.0%,0
+Guyana,0.0%,0
+Haiti,0.0%,0
+Honduras,0.0%,0
+Hungary,0.07%,1
+Iceland,0.0%,0
+India,15.72%,215
+Indonesia,0.44%,6
+Iran,0.29%,4
+Iraq,0.0%,0
+Ireland {Republic},0.15%,2
+Israel,15.5%,212
+Italy,1.46%,20
+Ivory Coast,0.15%,2
+Jamaica,0.0%,0
+Japan,1.54%,21
+Jordan,0.0%,0
+Kazakhstan,0.15%,2
+Kenya,0.44%,6
+Kiribati,0.0%,0
+Korea North,0.0%,0
+Korea South,0.73%,10
+Kosovo,0.0%,0
+Kuwait,0.0%,0
+Kyrgyzstan,0.0%,0
+Laos,0.0%,0
+Latvia,0.0%,0
+Lebanon,0.07%,1
+Lesotho,0.0%,0
+Liberia,0.0%,0
+Libya,0.0%,0
+Liechtenstein,0.0%,0
+Lithuania,0.07%,1
+Luxembourg,0.22%,3
+Macedonia,0.07%,1
+Madagascar,0.07%,1
+Malawi,0.07%,1
+Malaysia,0.22%,3
+Maldives,0.0%,0
+Mali,0.0%,0
+Malta,0.07%,1
+Marshall Islands,0.0%,0
+Mauritania,0.0%,0
+Mauritius,0.0%,0
+Mexico,0.8%,11
+Micronesia,0.0%,0
+Moldova,0.0%,0
+Monaco,0.0%,0
+Mongolia,0.0%,0
+Montenegro,0.0%,0
+Morocco,0.37%,5
+Mozambique,0.0%,0
+"Myanmar, {Burma}",0.0%,0
+Namibia,0.0%,0
+Nauru,0.0%,0
+Nepal,0.29%,4
+Netherlands,0.8%,11
+New Zealand,0.0%,0
+Nicaragua,0.0%,0
+Niger,0.0%,0
+Nigeria,1.1%,15
+Norway,0.0%,0
+Oman,0.22%,3
+Pakistan,0.58%,8
+Palau,0.0%,0
+Panama,0.0%,0
+Papua New Guinea,0.0%,0
+Paraguay,0.0%,0
+Peru,0.07%,1
+Philippines,0.0%,0
+Poland,0.66%,9
+Portugal,0.15%,2
+Qatar,0.0%,0
+Romania,0.29%,4
+Russian Federation,0.07%,1
+Rwanda,0.0%,0
+St Kitts & Nevis,0.0%,0
+St Lucia,0.0%,0
+Saint Vincent & the Grenadines,0.0%,0
+Samoa,0.0%,0
+San Marino,0.0%,0
+Sao Tome & Principe,0.0%,0
+Saudi Arabia,0.15%,2
+Senegal,0.0%,0
+Serbia,0.22%,3
+Seychelles,0.0%,0
+Sierra Leone,0.0%,0
+Singapore,0.88%,12
+Slovakia,0.07%,1
+Slovenia,0.0%,0
+Solomon Islands,0.0%,0
+Somalia,0.0%,0
+South Africa,0.22%,3
+South Sudan,0.0%,0
+Spain,2.05%,28
+Sri Lanka,0.15%,2
+Sudan,0.0%,0
+Suriname,0.0%,0
+Swaziland,0.0%,0
+Sweden,0.15%,2
+Switzerland,1.68%,23
+Syria,0.0%,0
+Taiwan,0.95%,13
+Tajikistan,0.0%,0
+Tanzania,0.15%,2
+Thailand,0.44%,6
+Togo,0.0%,0
+Tonga,0.0%,0
+Trinidad & Tobago,0.0%,0
+Tunisia,0.58%,8
+Turkey,0.88%,12
+Turkmenistan,0.0%,0
+Tuvalu,0.0%,0
+Uganda,0.22%,3
+Ukraine,0.22%,3
+United Arab Emirates,0.0%,0
+United Kingdom,5.12%,70
+United States,17.69%,242
+Uruguay,0.0%,0
+Uzbekistan,0.07%,1
+Vanuatu,0.0%,0
+Vatican City,0.0%,0
+Venezuela,0.29%,4
+Vietnam,0.58%,8
+Yemen,0.0%,0
+Zambia,0.07%,1
+Zimbabwe,0.07%,1
+Not in the list (Please specify),0.0%,0
+,Answered,1368
+,Skipped,510
+
+
+Q11. What is your age?
+Answer Choices,Response Percent,Responses
+Under 18,1.02%,14
+18-24,16.72%,229
+25-34,39.27%,538
+35-44,20.36%,279
+45-54,14.16%,194
+55-64,5.62%,77
+65+,1.82%,25
+Prefer Not to Share,1.02%,14
+,Answered,1370
+,Skipped,508
+
+
+Q12. What is your educational background?
+Answer Choices,Response Percent,Responses
+Doctoral degree (PhD),32.19%,442
+Bachelor's degree,26.29%,361
+High school/Secondary school degree,4.37%,60
+Masters or other non-doctoral post-graduate education,31.32%,430
+Multiple graduate degrees,2.4%,33
+Other,1.75%,24
+Prefer not to share,1.68%,23
+,Answered,1373
+,Skipped,505
+
+
+Q13. What race or ethnicity best describes you?
+Answer Choices,Response Percent,Responses
+Biracial/Multiracial,1.94%,26
+Black or of African descent,5.01%,67
+East Asian,8.59%,115
+Hispanic or Latino,6.05%,81
+Middle Eastern,8.82%,118
+South Asian,18.76%,251
+White or of European descent,34.98%,468
+Other,4.71%,63
+Prefer Not to Share,11.14%,149
+,Answered,1338
+,Skipped,540
+
+
+Q14. What is your gender identity?
+Answer Choices,Response Percent,Responses
+Man,75.99%,1041
+Woman,18.54%,254
+"Non-binary, genderqueer or gender non-conforming",1.31%,18
+Prefer Not to Share,3.87%,53
+Self-describe:,0.29%,4
+,Answered,1370
+,Skipped,508
+
+
+Q15. How many years of professional quantum experience do you have?
+Answer Choices,Response Percent,Responses
+Less than 1 year,33.92%,461
+1-2 years,22.3%,303
+3-5 years,23.47%,319
+6-10 years,11.99%,163
+More than 10 years,8.31%,113
+,Answered,1359
+,Skipped,519
+
+
+Q16. Where did you hear about this survey in 2026? Check all that apply.
+Answer Choices,Response Percent,Responses
+UF newsletter and emails,26.1%,350
+UF website,9.32%,125
+Another company's website or comms,18.42%,247
+In-person event,8.05%,108
+Other remote/online events,7.9%,106
+I’ve taken the QOSS Survey before,13.72%,184
+LinkedIn,19.76%,265
+X/Twitter,2.01%,27
+Other (please specify),18.87%,253
+,Answered,1341
+,Skipped,537
+
+
+"Q17. Have you ever used any Quantum Software?Quantum Software is any tool that assists with connecting to quantum computing hardware, hybrid systems, or cloud services or research in the fields of quantum computing or quantum physics, as well as study, teach, learn, develop, simulate, or interact with quantum computing concepts."
+Answer Choices,Response Percent,Responses
+Yes,83.0%,1128
+No,17.0%,231
+,Answered,1359
+,Skipped,519
+
+
+Q18. What operating system do you use to access quantum software platforms? Check all that apply.
+Answer Choices,Response Percent,Responses
+Windows,47.53%,625
+Windows subsystem for Linux (WSL),14.98%,197
+Linux,38.86%,511
+Mac,44.18%,581
+Other (please specify),1.9%,25
+,Answered,1315
+,Skipped,563
+
+
+"Q19. When it comes to the Quantum Software project you are most involved in, what best describes your role during the last year?"
+Answer Choices,Response Percent,Responses
+I did not use any quantum software in the last year,13.3%,179
+User: I installed or used the software.,43.02%,579
+Contributor: I submitted an issue or a Pull Request (PR).,15.97%,215
+"Maintainer: I am in charge of reviewing PRs, triaging issues, or/and maintaining documentation.",5.79%,78
+Project Owner: I contribute to defining the project strategy and roadmap. ,21.92%,295
+,Answered,1346
+,Skipped,532
+
+
+"Q20. Please select which of the following full-stack development platforms, compilers, and simulators you are currently using or would like to use in the future.Please select all that apply."
+Answer Choices,I have been using it in the last year,I plan to use it next year,Total
+PLATFORM SDKs,201,174,336.0
+amazon-braket/amazon-braket-sdk-python,128,189,292.0
+Blueqat/blueqatSDK,27,130,154.0
+BQSKit/bqskit,59,142,191.0
+QuEra/Bloqade,67,164,216.0
+quantumlib/Cirq,211,182,356.0
+Classiq/classiq-library,260,284,428.0
+munich-quantum-toolkit/core,67,152,197.0
+NVIDIA/CUDA-Q,223,318,483.0
+Riverlane/deltakit,57,155,194.0
+dwavesystems/dwave-ocean-sdk,65,138,191.0
+OpenQuantumDesign/equilux,22,119,138.0
+TeamGraphix/Graphix,41,117,150.0
+PennyLaneAI/PennyLane,417,289,550.0
+Quandela/Perceval,42,125,161.0
+rigetti/pyQuil,55,122,166.0
+microsoft/Q# (Qsharp),70,143,201.0
+qBraid/qBraid SDK,161,138,265.0
+qiboteam/Qibo,35,114,143.0
+Qiskit/Qiskit,691,332,778.0
+dakk/Qlasskit,27,107,131.0
+quantumlib/Qualtran,43,121,153.0
+jcmgray/quimb,53,119,157.0
+qutip/QuTiP-qip,126,148,241.0
+Renmusxd/RustQIP,28,105,129.0
+softwareQinc/Staq,20,103,121.0
+redfx-quantum/strange,18,102,118.0
+XanaduAI/Strawberry Fields,66,133,184.0
+sandbox-quantum/Tangelo,21,97,116.0
+tequilahub/Tequila,29,98,123.0
+Quantinuum/tket2,57,138,176.0
+CQCL/t|ket>,46,112,147.0
+QuantumBFS/Yao.jl,27,105,125.0
+COMPILERS + TRANSPILERS,87,118,181.0
+PennyLaneAI/Catalyst,158,186,282.0
+Riverlane/Deltakit,43,119,149.0
+Quantinuum/guppylang,61,136,176.0
+munich-quantum-toolkit/predictor,36,103,130.0
+oqc-community/qat,21,96,114.0
+MQT/QCEC,44,116,145.0
+Qiskit/Qiskit-ibm-transpiler,318,202,415.0
+CUDA-Q/Quake,63,139,183.0
+quil-lang/Quilc,27,85,108.0
+zxcalc/quizx,29,101,123.0
+CQCL/lambeq,18,95,110.0
+munich-quantum-toolkit/qmap,39,99,127.0
+haiqu-ai/Rivet,21,94,112.0
+silq-lang/Silq,20,87,103.0
+unitaryfoundation/UCC,29,109,133.0
+zxcalc/zxlive,26,101,118.0
+SIMULATORS,105,100,179.0
+unitaryfoundation/clifft,46,125,156.0
+NVIDIA/cuQuantum,135,208,297.0
+munich-quantum-toolkit/DDSIM,36,96,124.0
+HaeffnerLab/IonSim.jl,19,84,99.0
+intel/Intel Quantum Simulator,56,94,143.0
+MSRudolph/PauliPropagation.jl,36,98,124.0
+nicolasloizeau/PauliStrings.jl,38,95,125.0
+PennylaneAI/PennyLane Lightning,207,194,327.0
+Budapest-Quantum-Computing-Group/piquasso,20,93,108.0
+pasqal-io/Pulser,34,94,122.0
+Qiskit/Qiskit Aer,437,244,528.0
+unitaryfoundation/Qrack,31,91,115.0
+quantumlib/Qsim,61,100,149.0
+quantastica/quantum-circuit,49,88,129.0
+qojulia/QuantumOptics.jl,35,96,121.0
+qutip/QuantumToolbox.jl,47,101,133.0
+QuEST-Kit/QuEST,33,87,116.0
+weinbe58/QuSpin,20,88,106.0
+quil-lang/qvm,23,79,99.0
+softwareQinc/qpp (Q++),24,97,116.0
+scqubits/scqubits,24,87,104.0
+SoftwareQuTech/SimulaQron,21,85,103.0
+tencent-quantum-lab/TensorCircuit,45,97,135.0
+OTHER,42,90,122.0
+quantumgizmos/ldpc,40,104,131.0
+Qiskit/rustworkx,104,149,207.0
+Other (please specify),,,125.0
+,,Answered,1190
+,,Skipped,688
+
+
+Q21. Please select which of the following cloud services for quantum software you are currently using and which services you would like to use in the next year?Please select all that apply.
+Answer Choices,I have been using it in the last year,I plan to use it next year,Total
+Amazon Braket,173,217,339.0
+BlueQubit,44,102,139.0
+Classiq,220,248,363.0
+DWave Leap,57,122,165.0
+IBM Quantum Platform,529,322,661.0
+Infleqtion Superstaq,19,93,105.0
+IonQ Quantum Cloud,84,158,211.0
+Microsoft Azure Quantum,93,169,239.0
+Pasqal Cloud Services,19,103,117.0
+qBraid,164,129,244.0
+Quandela Cloud,22,90,109.0
+Quantinuum Nexus,54,144,174.0
+QuTech-Delft Quantum Inspire,24,104,122.0
+Rigetti Quantum Cloud Services,42,118,149.0
+Strangeworks Quantum Computing Platform,22,100,119.0
+Other (please specify),,,63.0
+,,Answered,930
+,,Skipped,948
+
+
+Q22. Please select which of the following software for applications and tools you are currently using as quantum software and which software you would like to use in the next year. Please select all that apply.
+Answer Choices,I have been using it in the last year,I plan to use it next year,Total
+munich-quantum-toolkit/bench,44,102,128.0
+BQSKit/bqskit,53,118,159.0
+Classiq/classiq-library,222,238,344.0
+NVIDIA/CUDA-Q Algorithms,100,203,267.0
+NVIDIA /CUDA-Q QEC,84,190,244.0
+Riverlane/deltakit,39,104,126.0
+PennyLaneAI/demos,144,160,236.0
+dwavesystems/dimod,39,90,115.0
+dwavesystems/dwave-cloud-client,40,95,126.0
+unitaryfoundation/mitiq,55,104,136.0
+NetKet/NetKet,16,72,84.0
+quantumlib/OpenFermion,52,101,137.0
+openqasm/openqasm,169,146,247.0
+munich-quantum-toolkit/problemsolver,28,83,104.0
+zxcalc/pyzx,60,114,145.0
+pasqal-io/qadence,15,75,88.0
+qiskit/qiskit-addon-sqd,116,124,203.0
+qiskit/qiskit-fermions,97,135,200.0
+qiskit/qiskit-addon-opt-mapper,93,106,172.0
+qiskit-community/qiskit-finance,99,134,208.0
+qiskit-community/qiskit-machine-learning,222,178,341.0
+qiskit-community/qiskit-nature,138,138,236.0
+Qiskit/qiskit-serverless,105,120,188.0
+tensorflow/quantum,94,123,201.0
+Infleqtion/Superstaq,14,82,89.0
+mit-han-lab/torchquantum,33,84,112.0
+XanaduAI/thewalrus,32,106,123.0
+vprusso/toqito,12,70,79.0
+Other (please specify),,,48.0
+,,Answered,920
+,,Skipped,958
+
+
+Q23. Do you use software for hardware design or low-level device control?
+Answer Choices,Response Percent,Responses
+Yes,27.94%,340
+No,72.06%,877
+,Answered,1217
+,Skipped,661
+
+
+"Q24. If you use software for hardware design and low-level device control, what software do you use?"
+Answer Choices,Response Percent,Responses
+m-labs/artiq,10.07%,28
+NVIDIA/cuQuantum,30.94%,86
+gdsfactory/gdsfactory,7.91%,22
+iqm-finland/KQCircuits,8.27%,23
+NVIDIA/Ising Calibration,15.47%,43
+NVIDIA/cudaq-realtime/NVQLink,13.67%,38
+pasqal-io/Pulser,8.99%,25
+zlatko-minev/pyEPR,6.83%,19
+microsoft/QCoDeS,10.07%,28
+qiboteam/qibolab,6.47%,18
+openquantumhardware/QICK,11.51%,32
+qiskit-community/qiskit-experiments,32.01%,89
+Qiskit/qiskit-metal (currently called Quantum Metal),30.58%,85
+qua-platform/qua-libs,8.99%,25
+Quantify-Collaborative/QUANTIFY,5.76%,16
+qubic/qubic,7.91%,22
+qucat/QuCAT,5.76%,16
+qutech/Qupulse,5.76%,16
+QuTiP/QuTiP-cuQuantum,15.83%,44
+QuTiP/qutip-qip,17.63%,49
+scqubits/scqubits,8.63%,24
+XanaduAI/strawberryfields,20.14%,56
+Other (please specify),16.55%,46
+,Answered,278
+,Skipped,1600
+
+
+Q25. Have you used hybrid quantum–classical workflows in the last year?
+Answer Choices,Response Percent,Responses
+Yes,52.94%,640
+No,47.06%,569
+,Answered,1209
+,Skipped,669
+
+
+Q26. Which of the following quantum–classical workflows have you used in the past year? Please select all that apply.
+Answer Choices,Response Percent,Responses
+Quantum simulation using CPUs,80.16%,493
+Quantum simulation accelerated by GPUs,56.42%,347
+QPU execution with classical preprocessing or postprocessing,46.83%,288
+Iterative workflows in which a QPU and classical computer exchange results multiple times,36.75%,226
+"Real-time workflows involving QPU control, calibration, error correction, or feedback",21.3%,131
+Other (please specify),1.46%,9
+,Answered,615
+,Skipped,1263
+
+
+Q27. What are the main barriers to expanding your quantum–classical workflows? Please select up to three.
+Answer Choices,Response Percent,Responses
+Limited access to QPUs,54.45%,306
+Limited access to GPU or HPC resources,37.01%,208
+Cost,41.81%,235
+Difficulty integrating quantum and classical software,25.44%,143
+Lack of portability across different QPUs or computing environments,16.73%,94
+Latency between quantum and classical systems,20.64%,116
+Lack of orchestration or scheduling tools,13.35%,75
+"Insufficient debugging, profiling, or monitoring tools",14.59%,82
+Lack of useful benchmarks or validated use cases,20.64%,116
+"Lack of skills, documentation, or examples",19.22%,108
+I do not currently need to expand these workflows,11.39%,64
+Other (please specify),2.67%,15
+,Answered,562
+,Skipped,1316
+
+
+Q28. Do you use software for quantum error correction?
+Answer Choices,Response Percent,Responses
+Yes,35.21%,418
+No,64.79%,769
+Haven't started yet,0.0%,0
+,Answered,1187
+,Skipped,691
+
+
+"Q29. If you use software for Quantum Error Correction, what software do you use?"
+Answer Choices,Response Percent,Responses
+NVIDIA/CUDA-Q QEC,20.75%,83
+Riverlane/Deltakit,13.5%,54
+NVIDIA/Ising Decoding,11.25%,45
+panqec/panqec,3.25%,13
+PennyLaneAI/PennyLane,30.0%,120
+oscarhiggott/Pymatching,15.75%,63
+munich-quantum-toolkit/qecc,9.25%,37
+Qiskit/Qiskit,51.75%,207
+watermarkhu/qsurface,2.5%,10
+QuantumSavory/QuantumClifford.jl,2.5%,10
+quantumlib/Stim,29.75%,119
+quantumlib/tesseract-decoder,9.0%,36
+tqec/tqec,10.25%,41
+Other (please specify),14.75%,59
+,Answered,400
+,Skipped,1478
+
+
+"Q30. For QEC technologies that you would like to use but are not currently using, what are the main reasons for not currently using them?"
+Answer Choices,Response Percent,Responses
+Price or other economical reason,22.82%,238
+Tool does not exist / has not been implemented,18.98%,198
+Technology is poorly documented or it is hard to find tutorials and examples,16.49%,172
+"Technology is incompatible with current stack, e.g. incompatible language, license, or interface.",13.14%,137
+Haven't started yet,44.49%,464
+N/A,18.12%,189
+Other (please specify),2.78%,29
+,Answered,1043
+,Skipped,835
+
+
+Q31. Do you use software for high-performance computing in your quantum workflows?
+Answer Choices,Response Percent,Responses
+Yes,36.85%,423
+No,63.15%,725
+,Answered,1148
+,Skipped,730
+
+
+Q32. How long have you been using HPC?
+Answered,297
+Skipped,1581
+
+
+"Q33. If you use software for HPC, what software do you use?"
+Answer Choices,Response Percent,Responses
+Altair Grid Engine,1.08%,4
+AMD ROCm,5.41%,20
+Apache Mesos,0.27%,1
+Flux,1.08%,4
+Ganglia,0.81%,3
+IBM Spectrum LSF,8.92%,33
+Intel oneAPI,0.81%,3
+Kubernetes,6.22%,23
+Moab HPC Suite,0.0%,0
+Microsoft HPC Pack,1.89%,7
+Nomad,0.27%,1
+NVIDIA CUDA,24.05%,89
+NVIDIA CUDA-X Libraries NVIDIA Base Command Manager,2.43%,9
+NVIDIA SLURM,17.03%,63
+OpenShift,2.16%,8
+PBS Professional,0.81%,3
+PBS/Torque,0.54%,2
+RAJA Portability Suite,0.0%,0
+Xilinx Vitis,1.35%,5
+Custom orchestration code (e.g. homegrown Python/bash pipeline),6.76%,25
+No scheduler -- jobs launched directly from the command line,4.59%,17
+Other (or if you use more than one of the above) - please specify,13.51%,50
+,Answered,370
+,Skipped,1508
+
+
+Q34. Do you use resource estimation for software development and research?
+Answer Choices,Response Percent,Responses
+Yes,33.42%,378
+No,66.58%,753
+,Answered,1131
+,Skipped,747
+
+
+Q35. What do you use resource estimation for?
+Answered,199
+Skipped,1679
+
+
+"Q36. What software tools, if any, do you use for quantum resource estimation?"
+Answer Choices,Response Percent,Responses
+PennyLane,54.37%,168
+Qualtran,14.24%,44
+PyLiqtr,7.44%,23
+Construct/Workbench,10.03%,31
+Other (please specify),34.95%,108
+,Answered,309
+,Skipped,1569
+
+
+Q37. What insight do you use resource estimation for?
+Answer Choices,Response Percent,Responses
+Finding algorithmic bottlenecks,61.8%,199
+Performing hardware runtime estimation,57.45%,185
+Estimating energy consumption considerations,22.36%,72
+Comparing with analytical predictions,39.44%,127
+General benchmarking,59.63%,192
+Other (please specify),4.04%,13
+,Answered,322
+,Skipped,1556
+
+
+"Q38. When choosing Full Stack Development Platforms & Simulators, please rank the following factors in order of importance (topmost answer is most important to you)"
+Answer Choices,1,2,3,4,5,6,7,Total,Score
+Performance - quality of results,453,172,91,71,56,29,10,882.0,5.87
+Performance - runtime speed,110,330,146,86,95,74,41,882.0,4.87
+Ease of use of the software,156,153,293,109,87,60,24,882.0,4.89
+Well-maintained software,62,80,149,343,150,79,19,882.0,4.15
+Well-Integrated in your software stack,26,43,70,108,317,192,126,882.0,3.04
+Well-documented,54,87,95,123,117,333,73,882.0,3.35
+Bigger/most supportive community,21,17,38,42,60,115,589,882.0,1.82
+,,,,,,,,Answered,882
+,,,,,,,,Skipped,996
+
+
+"Q39. When choosing Cloud Services, please rank the following factors in order of importance (topmost answer is most important to you)"
+Answer Choices,1,2,3,4,5,6,7,Total,Score
+Performance - quality of results,308,138,86,64,43,23,7,669.0,5.76
+Performance - runtime speed,94,243,106,84,72,44,26,669.0,4.95
+Ease of use of the service,145,106,232,86,52,39,9,669.0,5.08
+Well-maintained service,44,76,116,255,116,48,14,669.0,4.22
+Well-Integrated in your software stack,29,37,57,76,257,151,62,669.0,3.21
+Well-documented,38,58,51,72,97,301,52,669.0,3.14
+Bigger/most supportive community,11,11,21,32,32,63,499,669.0,1.64
+,,,,,,,,Answered,669
+,,,,,,,,Skipped,1209
+
+
+"Q40. When choosing Software for Application/Tools, please rank the following factors in order of importance (topmost answer is most important to you)"
+Answer Choices,1,2,3,4,5,6,7,Total,Score
+Performance - quality of results,309,110,66,53,45,23,3,609.0,5.83
+Performance - runtime speed,59,223,97,89,61,55,25,609.0,4.78
+Ease of use of the service,122,85,198,84,71,38,11,609.0,4.91
+Well-maintained service,29,74,104,213,132,49,8,609.0,4.14
+Well-Integrated in your software stack,24,32,56,63,205,160,69,609.0,3.11
+Well-documented,52,67,62,80,68,231,49,609.0,3.47
+Bigger/most supportive community,14,18,26,27,27,53,444,609.0,1.77
+,,,,,,,,Answered,609
+,,,,,,,,Skipped,1269
+
+
+"Q41. For the technologies that you would like to use but are not currently using, what are the main reasons for not currently using them?"
+Answer Choices,Response Percent,Responses
+Price or other economical reason,51.32%,408
+Tool does not exist / has not been implemented,33.21%,264
+Technology is poorly documented or it is hard to find tutorials and examples,29.69%,236
+"Technology is incompatible with current stack, e.g. incompatible language, license, or interface.",28.3%,225
+Other (please specify),10.31%,82
+,Answered,795
+,Skipped,1083
+
+
+Q42. Do you contribute code to quantum OSS projects (can be collaborative or personal projects)?
+Answer Choices,Response Percent,Responses
+Yes,48.04%,465
+No,51.96%,503
+,Answered,968
+,Skipped,910
+
+
+Q43. Are your contributions to quantum OSS part of your scientific research in the quantum field?
+Answer Choices,Response Percent,Responses
+Yes,38.69%,366
+No,61.31%,580
+,Answered,946
+,Skipped,932
+
+
+Q44. Please select the type of quantum computing research you are performing. Please check all that apply.
+Answer Choices,Response Percent,Responses
+Application development (development of software packages or adaption of algorithms for specific usecases/industries),45.94%,407
+Algorithm development (development of mathematics and algorithms. This includes QML and optimization),44.02%,390
+Benchmarking (finding benchmarks for assessing current and future quantum computing hardware),27.43%,243
+Error correction,22.23%,197
+Error mitigation,12.64%,112
+Fundamental Physics,16.03%,142
+Hardware development,10.38%,92
+QPU-HPC integration,16.14%,143
+Quantum Program Compilation & Circuit Optimization (how to best implement an algorithm on the quantum computer),27.09%,240
+Quantum Simulation/Physics,29.35%,260
+Qubit Characterization,8.01%,71
+"Software Engineering (such as the development, test and verification, of software used to operate a quantum computer)",27.54%,244
+Quantum Information Theory,21.56%,191
+Other (please specify),6.55%,58
+,Answered,886
+,Skipped,992
+
+
+Q45. Please select the area of quantum computing you believe to be the most promising for future research.Please check all that apply.
+Answer Choices,Response Percent,Responses
+None of the above,0.0%,0
+Application development (development of software packages or adaption of algorithms for specific usecases/industries),42.61%,389
+Algorithm development (development of mathematics and algorithms. This includes QML and optimization),54.33%,496
+Benchmarking (finding benchmarks for assessing current and future quantum computing hardware),16.32%,149
+Error correction,44.36%,405
+Error mitigation,15.44%,141
+Fundamental Physics,17.31%,158
+Hardware development,19.93%,182
+QPU-HPC integration,23.77%,217
+Quantum Program Compilation & Circuit Optimization (how to best implement an algorithm on the quantum computer),26.94%,246
+Quantum Simulation/Physics,31.98%,292
+Qubit Characterization,8.0%,73
+"Software Engineering (such as the development, test and verification, of software used to operate a quantum computer)",22.45%,205
+Quantum Information Theory,21.25%,194
+Quantum x AI,0.0%,0
+Other (please specify),2.19%,20
+,Answered,913
+,Skipped,965
+
+
+"Q46. Have you co-authored a research paper, including pre-prints, based on work with open-source software?"
+Answer Choices,Response Percent,Responses
+Yes,32.72%,303
+No,34.67%,321
+"No, but I would like to in the future",32.61%,302
+,Answered,926
+,Skipped,952
+
+
+"Q47. If yes, please include a link to your paper (Note: Your paper link will be removed from your response before results are shared publicly, ensuring your answers remain anonymous.)"
+Answered,168
+Skipped,1710
+
+
+Q48. Which programming languages do you use in developing quantum software? Please select all that apply.
+Answer Choices,Response Percent,Responses
+Python,92.5%,851
+Julia,9.46%,87
+C/C++,33.91%,312
+Q#,4.57%,42
+Lisp,1.09%,10
+MATLAB,12.5%,115
+Mathematica,6.63%,61
+Java,8.59%,79
+Javascript,9.78%,90
+Rust,14.02%,129
+Go,3.26%,30
+Fortran,4.24%,39
+Other (please use commas to separate if more than one),5.22%,48
+,Answered,920
+,Skipped,958
+
+
+"Q49. Which programming languages would you like to learn, or consider to be the most promising for future use? Please select all that apply."
+Answer Choices,Response Percent,Responses
+Python,32.59%,247
+Julia,21.24%,161
+C/C++,31.53%,239
+Q#,18.6%,141
+Lisp,5.15%,39
+MATLAB,11.87%,90
+Mathematica,9.1%,69
+Java,10.42%,79
+Javascript,6.99%,53
+Rust,45.25%,343
+Go,10.95%,83
+Fortran,7.39%,56
+(please use commas to separate if more than one),5.28%,40
+,Answered,758
+,Skipped,1120
+
+
+Q50. What backends do you submit your programs to? Check all that apply.
+Answer Choices,Response Percent,Responses
+"CPU execution - classical quantum simulators (e.g. PennyLane Lightning, Qiskit Aer)",74.71%,635
+"GPU execution - classical quantum simulators (e.g. PennyLane Lightning, Qiskit Aer)",53.29%,453
+"Quantum hardware directly via the vendor (e.g. IQM, IBM)",52.47%,446
+"Quantum hardware via third-party cloud providers (e.g. AWS Braket, Classiq)",26.59%,226
+Other (please specify),4.24%,36
+,Answered,850
+,Skipped,1028
+
+
+Q51. Which of the below workflows do you use in developing quantum software? Please select all that apply.
+Answer Choices,Response Percent,Responses
+An integrated development environment (IDE),67.58%,594
+Command line or Terminal,51.08%,449
+Jupyter Notebooks or other notebooks,64.96%,571
+Text Editor,14.9%,131
+AI Agent,43.34%,381
+Other (please specify),3.41%,30
+,Answered,879
+,Skipped,999
+
+
+"Q52. In a hackathon or live coding session, what platform do you like using? Please select all that apply."
+Answer Choices,Response Percent,Responses
+Github Codespaces,25.18%,208
+Google Colab,39.83%,329
+Local Jupyter notebook,44.55%,368
+MyBinder,1.82%,15
+PennyLane,25.3%,209
+qBraid,13.44%,111
+Marimo,3.03%,25
+Classiq,22.03%,182
+NVIDIA Launchable,5.21%,43
+Other (please specify),6.9%,57
+,Answered,826
+,Skipped,1052
+
+
+Q53. Are you using AI Tools for quantum tasks?
+Answer Choices,Response Percent,Responses
+Yes,77.82%,786
+No,22.18%,224
+,Answered,1010
+,Skipped,868
+
+
+Q54. Which AI Tools have you used for quantum tasks?
+Answer Choices,Response Percent,Responses
+Anthropic Claude Code,71.56%,531
+OpenAI Codex,41.78%,310
+Google Gemini,39.35%,292
+Microsoft Copilot,16.58%,123
+Cursor,11.32%,84
+NVIDIA Nemotron,2.96%,22
+NVIDIA Ising,2.7%,20
+Deepseek,9.43%,70
+MoonShot AI Kimi,2.02%,15
+Alibaba Qwen,4.18%,31
+Other (please specify),14.82%,110
+,Answered,742
+,Skipped,1136
+
+
+Q55. How do you perform each of the following tasks in your quantum workflow? (Select all that apply.)
+Answer Choices,Manually,With AI Assistance,N/A (I don't do this task),Total
+"Discovering & summarizing research papers (e.g., arXiv)",286,513,48,686.0
+Learning new quantum concepts or SDKs,274,535,34,680.0
+Writing quantum circuits or algorithm code,253,529,60,680.0
+Debugging or optimizing quantum code,226,539,62,670.0
+Generating code documentation,197,530,78,671.0
+Hardware calibration or signal/pulse tuning,114,191,375,634.0
+Other (please specify),,,,5.0
+,,,Answered,700
+,,,Skipped,1178
+
+
+"Q56. If you use AI to write or debug code, how do you verify whether the code generated by AI assistants for quantum software is correct?"
+Answer Choices,Response Percent,Responses
+Never do,5.69%,39
+Manual reviews,78.28%,537
+Automated tests,54.23%,372
+Automation verification,26.24%,180
+Formal verification,17.49%,120
+,Answered,686
+,Skipped,1192
+
+
+"Q57. How often do you verify whether the responses regarding quantum information provided by AI assistants (e.g., conceptual explanations) is correct?"
+Answer Choices,Response Percent,Responses
+Always,42.92%,297
+Most of the time,38.73%,268
+Sometimes,14.45%,100
+Rarely,2.89%,20
+Never,1.01%,7
+,Answered,692
+,Skipped,1186
+
+
+Q58. In which situations do you typically verify AI generated quantum code or information?
+Answer Choices,Response Percent,Responses
+When the topic is new or outside my expertise,67.53%,445
+When code involves recently released features,40.36%,266
+When AI generated code is complex,54.32%,358
+When AI generated code does not work as expected,59.18%,390
+"When the output will be used in a paper, report, or presentation",54.48%,359
+Other (please specify),8.95%,59
+,Answered,659
+,Skipped,1219
+
+
+Q59. Please indicate the extent to which you agree or disagree with each statement. [rating scale:
+Answer Choices,Strongly agree,Agree,Neutral,Disagree,Strongly disagree,N/A,Total,Weighted Average
+The information generated by AI assistants regarding quantum computing concepts is accurate.,48,364,188,52,12,16,680.0,2.51
+The code generated by AI assistants is accurate.,52,333,193,66,14,16,674.0,2.56
+AI assistants help me do quantum computing work more efficiently and effectively.,233,314,95,17,6,12,677.0,1.94
+,,,,,,,Answered,683
+,,,,,,,Skipped,1195
+
+
+Q60. Please select the areas of quantum computing where you believe AI will have the largest impact.
+Answer Choices,Response Percent,Responses
+Application development (development of software packages or adaption of algorithms for specific usecases/industries),65.93%,445
+Algorithm development (development mathematics and algorithms. This includes QML and optimization),57.19%,386
+Benchmarking (finding benchmarks for assessing current and future quantum computing hardware),38.22%,258
+Error correction,34.81%,235
+Error mitigation,19.7%,133
+Fundamental Physics,14.81%,100
+Hardware development,13.93%,94
+QPU-HPC integration,22.37%,151
+Quantum Program Compilation & Circuit Optimization (how to best implement an algorithm on the quantum computer),37.19%,251
+Quantum Simulation/Physics,26.52%,179
+Qubit Characterization,12.44%,84
+"Software Engineering (such as the development, test and verification, of software used to operate a quantum computer)",53.63%,362
+Quantum Information Theory,19.7%,133
+Other (please specify),3.11%,21
+,Answered,675
+,Skipped,1203
+
+
+"Q61. If you do not use AI for quantum tasks, what are your reasons for not doing so?"
+Answer Choices,Response Percent,Responses
+Too expensive,25.42%,122
+Output not accurate enough,26.46%,127
+Don’t trust the output,25.83%,124
+Security concerns,11.88%,57
+Moral/ethical concerns,10.42%,50
+,Answered,480
+,Skipped,1398
+
+
+"Q62. In your opinion, what is the impact of open source software on the quantum software community?"
+Answer Choices,Response Percent,Responses
+Very positive,75.08%,678
+Somewhat positive,15.61%,141
+Neither positive nor negative,5.54%,50
+Somewhat negative,0.44%,4
+Very negative,0.33%,3
+Do not know,2.99%,27
+,Answered,903
+,Skipped,975
+
+
+"Q63. When it comes to developing quantum software, where do you go for answers or information?"
+Answer Choices,Response Percent,Responses
+Project documentation or website,75.17%,648
+"Project repository (GitHub, GitLab) or code base",72.39%,624
+Quantum Computing Stack Exchange,27.15%,234
+Stack Overflow,19.03%,164
+Discord,12.99%,112
+Reddit,8.24%,71
+Youtube,20.19%,174
+Slack,12.65%,109
+"Other Project Forum (eg. Discourse, Google forum)",9.51%,82
+"GenAI tools (e.g. Claude, ChatGPT)",63.69%,549
+"Other (please specify, separating by commas)",3.83%,33
+,Answered,862
+,Skipped,1016
+
+
+Q64. Which of the following types of resources/ engagements do you find helpful for your learning or contributing to quantum open source projects? Please select all that apply.
+Answer Choices,Response Percent,Responses
+"Hackathons (eg. QHack, Qiskit Camps, Big Quantum Hackathon by Quant X , unitaryHACK, …)",53.02%,422
+"Mentorship programs (eg. QOSF mentorships, Unitary Foundation Microgrants, Qiskit Advocate Mentorship Program, individual/private mentoring …)",41.46%,330
+"Certificate or degrees (eg. IBM Qiskit Developer Certificate, PennyLane Badges and Certificates, MITx Quantum, QWorld Certificate, …)",45.73%,364
+Online coding challenges and exercises (e.g. PennyLane Codebook/Challenges),41.33%,329
+"Participative courses (Courses, in person or remote, where you have to actively participate. eg. Qiskit Global Summer School, Qubit x Qubit Introduction Course)",41.21%,328
+"Digital education text resources (eg. Qiskit Textbook, PennyLane Demos/Tutorials/Blogs, OSS Project tutorials and documentation, etc.)",44.97%,358
+"Video resources (eg. YouTube explanations, QWorld talks, Qiskit seminars, QHack videos, etc.)",50.88%,405
+Professional Networking,34.8%,277
+Other (please specify),2.51%,20
+,Answered,796
+,Skipped,1082
+
+
+Q65. Is there something you'd like to say about the quantum OSS community that you think is important feedback?
+Answered,143
+Skipped,1735
+
+
+"Q66. Are there areas of quantum software or hardware where new open source tools, public goods, or digital commons would be particularly impactful? If so, what would you want to see developed or supported?"
+Answered,135
+Skipped,1743
+
+
