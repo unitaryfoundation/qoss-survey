@@ -10,7 +10,7 @@ The survey results are available at the following URLs:
 - Blog Post: Coming Soon
 - Website: Coming Soon
 
-The folder [`2026`] (coming soon) will contain results of the survey for the 2026 survey with aggregated data in xlsx, csv format.
+The folder [`2026`](./2026/) contains results of the survey for the 2026 survey with aggregated data in xlsx, csv format.
 
 ## 2025 Results
 
